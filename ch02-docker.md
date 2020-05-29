@@ -49,7 +49,7 @@ Linux 操作系统中进程特点：
 
 #### 1.3 如何构建镜像？
 
-我们使用 dockerfile 来描述构建镜像的动作。
+我们使用 Dockerfile 来描述构建镜像的动作。
 
 ![image-20200509203124445](img\docker-build)
 
